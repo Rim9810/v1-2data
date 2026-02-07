@@ -7,6 +7,7 @@ from pathlib import Path
 
 import discord
 from discord.ext import commands
+from keep_alive import keep_alive
 
 # Fix lỗi Event Loop của Motor/Asyncio trên Windows
 if os.name == 'nt':
@@ -173,6 +174,8 @@ async def load_extensions():
             log.error(f"- {ext}: {e}")
             # print full traceback to stdout for easier grep in terminal
             print(tb)
+
+keep_alive()
 async def main():
     async with bot:
         await load_extensions()
@@ -180,3 +183,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
