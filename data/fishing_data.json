@@ -1,0 +1,898 @@
+{
+  "USERS": {
+    "708214183983972403": {
+      "wallet": 68734559,
+      "gems": 1314,
+      "xp": 215,
+      "level": 8,
+      "rod_level": 5,
+      "max_rod_level": 7,
+      "inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {}
+      },
+      "shiny_inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {}
+      },
+      "items": {
+        "01": 1,
+        "02": 1,
+        "03": 1,
+        "04": 1,
+        "05": 1
+      },
+      "equipped_items": [],
+      "eggs": [
+        {
+          "id": "6d30c7a440004b86915819719ce94c59",
+          "tier": 4,
+          "hatch_at": 1770399478,
+          "bought_at": 1770395878
+        },
+        {
+          "id": "92b00e452cdd4a1abbe9817863d14f68",
+          "tier": 4,
+          "hatch_at": 1770399483,
+          "bought_at": 1770395883
+        },
+        {
+          "id": "ca22e8c127964f1b83f9ce45414d18df",
+          "tier": 4,
+          "hatch_at": 1770399489,
+          "bought_at": 1770395889
+        }
+      ],
+      "pets": [
+        "m1",
+        "c1",
+        "e1",
+        "u2",
+        "e2",
+        "e1",
+        "e2"
+      ],
+      "active_pets": [
+        "m1",
+        "e1"
+      ],
+      "last_daily": 1770397537,
+      "fishes": [
+        {
+          "id": "31vX",
+          "name": "Cá thần",
+          "rarity": "mythical",
+          "weight": 116.06,
+          "weight_class": "normal",
+          "price_per_kg": 3000,
+          "sell_price": 6963600,
+          "caught_at": 1770201324,
+          "shiny": true
+        },
+        {
+          "id": "3trz",
+          "name": "Cá mập trắng khổng lồ",
+          "rarity": "unreal",
+          "weight": 1006.57,
+          "weight_class": "tiny",
+          "price_per_kg": 5000,
+          "sell_price": 5032850,
+          "caught_at": 1770304899,
+          "shiny": false
+        },
+        {
+          "id": "9Gio",
+          "name": "Cá mập trắng khổng lồ",
+          "rarity": "unreal",
+          "weight": 1527.1,
+          "weight_class": "normal",
+          "price_per_kg": 5000,
+          "sell_price": 7635500,
+          "caught_at": 1770314825,
+          "shiny": false
+        },
+        {
+          "id": "fbxU",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 5.36,
+          "weight_class": "huge",
+          "price_per_kg": 10,
+          "sell_price": 53,
+          "caught_at": 1770398085,
+          "shiny": false
+        },
+        {
+          "id": "EiPD",
+          "name": "Cá trắm",
+          "rarity": "common",
+          "weight": 1.15,
+          "weight_class": "tiny",
+          "price_per_kg": 14,
+          "sell_price": 16,
+          "caught_at": 1770398096,
+          "shiny": false
+        },
+        {
+          "id": "yR6L",
+          "name": "Cá kiếm",
+          "rarity": "rare",
+          "weight": 12.08,
+          "weight_class": "huge",
+          "price_per_kg": 120,
+          "sell_price": 1449,
+          "caught_at": 1770398110,
+          "shiny": false
+        },
+        {
+          "id": "Pu0N",
+          "name": "Cá hồi",
+          "rarity": "uncommon",
+          "weight": 4.19,
+          "weight_class": "normal",
+          "price_per_kg": 25,
+          "sell_price": 104,
+          "caught_at": 1770398122,
+          "shiny": false
+        },
+        {
+          "id": "owrj",
+          "name": "Cá hồi",
+          "rarity": "uncommon",
+          "weight": 4.03,
+          "weight_class": "normal",
+          "price_per_kg": 25,
+          "sell_price": 100,
+          "caught_at": 1770398133,
+          "shiny": false
+        },
+        {
+          "id": "j57L",
+          "name": "Xương cá",
+          "rarity": "trash",
+          "weight": 0.23,
+          "weight_class": "huge",
+          "price_per_kg": 20,
+          "sell_price": 4,
+          "caught_at": 1770398158,
+          "shiny": false
+        },
+        {
+          "id": "nIBI",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 3.73,
+          "weight_class": "normal",
+          "price_per_kg": 15,
+          "sell_price": 55,
+          "caught_at": 1770398248,
+          "shiny": false
+        },
+        {
+          "id": "VBj2",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 8.22,
+          "weight_class": "huge",
+          "price_per_kg": 10,
+          "sell_price": 82,
+          "caught_at": 1770398796,
+          "shiny": false
+        },
+        {
+          "id": "J9u3",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 6.48,
+          "weight_class": "normal",
+          "price_per_kg": 10,
+          "sell_price": 64,
+          "caught_at": 1770399119,
+          "shiny": false
+        },
+        {
+          "id": "zUhQ",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 10.36,
+          "weight_class": "huge",
+          "price_per_kg": 10,
+          "sell_price": 103,
+          "caught_at": 1770400511,
+          "shiny": false
+        }
+      ],
+      "aquarium": {
+        "9Gio": {
+          "added_at": 1770397161
+        },
+        "3trz": {
+          "added_at": 1770397161
+        }
+      }
+    },
+    "824256921343230032": {
+      "wallet": 0,
+      "gems": 0,
+      "xp": 20,
+      "level": 1,
+      "rod_level": 1,
+      "max_rod_level": 1,
+      "inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "shiny_inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "items": {},
+      "equipped_items": [],
+      "eggs": [],
+      "pets": [],
+      "active_pets": [],
+      "last_daily": 0,
+      "fishes": [
+        {
+          "id": "Curc",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 0.59,
+          "weight_class": "tiny",
+          "price_per_kg": 8,
+          "sell_price": 4,
+          "caught_at": 1770195656,
+          "shiny": false
+        },
+        {
+          "id": "RUxY",
+          "name": "Cá kiếm",
+          "rarity": "rare",
+          "weight": 6.53,
+          "weight_class": "normal",
+          "price_per_kg": 120,
+          "sell_price": 783,
+          "caught_at": 1770195800,
+          "shiny": false
+        }
+      ]
+    },
+    "862892773934104586": {
+      "wallet": 333,
+      "gems": 44,
+      "xp": 60,
+      "level": 1,
+      "rod_level": 1,
+      "max_rod_level": 1,
+      "inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "shiny_inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "items": {},
+      "equipped_items": [],
+      "eggs": [],
+      "pets": [],
+      "active_pets": [],
+      "last_daily": 1770211803,
+      "fishes": [
+        {
+          "id": "2ck9",
+          "name": "Cá vược khổng lồ",
+          "rarity": "rare",
+          "weight": 14.33,
+          "weight_class": "normal",
+          "price_per_kg": 60,
+          "sell_price": 859,
+          "caught_at": 1770212198,
+          "shiny": false
+        },
+        {
+          "id": "NRc3",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 12.16,
+          "weight_class": "gigantic",
+          "price_per_kg": 8,
+          "sell_price": 97,
+          "caught_at": 1770212288,
+          "shiny": false
+        },
+        {
+          "id": "4jgt",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 1.87,
+          "weight_class": "normal",
+          "price_per_kg": 8,
+          "sell_price": 14,
+          "caught_at": 1770212316,
+          "shiny": false
+        },
+        {
+          "id": "hxay",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 2.28,
+          "weight_class": "normal",
+          "price_per_kg": 7,
+          "sell_price": 15,
+          "caught_at": 1770212335,
+          "shiny": false
+        },
+        {
+          "id": "9oE0",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 2.49,
+          "weight_class": "normal",
+          "price_per_kg": 7,
+          "sell_price": 17,
+          "caught_at": 1770212359,
+          "shiny": false
+        },
+        {
+          "id": "sWjH",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 1.89,
+          "weight_class": "normal",
+          "price_per_kg": 8,
+          "sell_price": 15,
+          "caught_at": 1770212370,
+          "shiny": false
+        }
+      ]
+    },
+    "811518028822740993": {
+      "wallet": 1390,
+      "gems": 48,
+      "xp": 30,
+      "level": 3,
+      "rod_level": 2,
+      "max_rod_level": 2,
+      "inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "shiny_inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "items": {},
+      "equipped_items": [],
+      "eggs": [],
+      "pets": [],
+      "active_pets": [],
+      "last_daily": 1770303038,
+      "fishes": [
+        {
+          "id": "6PYM",
+          "name": "Cá kiếm",
+          "rarity": "rare",
+          "weight": 7.06,
+          "weight_class": "normal",
+          "price_per_kg": 120,
+          "sell_price": 847,
+          "caught_at": 1770303138,
+          "shiny": false
+        },
+        {
+          "id": "cca7",
+          "name": "Cá vược khổng lồ",
+          "rarity": "rare",
+          "weight": 12.07,
+          "weight_class": "normal",
+          "price_per_kg": 80,
+          "sell_price": 965,
+          "caught_at": 1770303213,
+          "shiny": false
+        },
+        {
+          "id": "Bu9w",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 1.77,
+          "weight_class": "tiny",
+          "price_per_kg": 10,
+          "sell_price": 17,
+          "caught_at": 1770303382,
+          "shiny": false
+        },
+        {
+          "id": "jZi9",
+          "name": "Cá hồi",
+          "rarity": "uncommon",
+          "weight": 2.51,
+          "weight_class": "tiny",
+          "price_per_kg": 25,
+          "sell_price": 62,
+          "caught_at": 1770303401,
+          "shiny": false
+        },
+        {
+          "id": "alTi",
+          "name": "Cá trắm",
+          "rarity": "common",
+          "weight": 3.63,
+          "weight_class": "huge",
+          "price_per_kg": 14,
+          "sell_price": 50,
+          "caught_at": 1770303430,
+          "shiny": false
+        },
+        {
+          "id": "8cma",
+          "name": "Cá hồi",
+          "rarity": "uncommon",
+          "weight": 4.26,
+          "weight_class": "normal",
+          "price_per_kg": 25,
+          "sell_price": 106,
+          "caught_at": 1770303443,
+          "shiny": false
+        },
+        {
+          "id": "WW6G",
+          "name": "Cá trắm",
+          "rarity": "common",
+          "weight": 4.45,
+          "weight_class": "huge",
+          "price_per_kg": 14,
+          "sell_price": 62,
+          "caught_at": 1770303477,
+          "shiny": false
+        },
+        {
+          "id": "K9Sg",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 3.31,
+          "weight_class": "normal",
+          "price_per_kg": 10,
+          "sell_price": 33,
+          "caught_at": 1770303531,
+          "shiny": false
+        },
+        {
+          "id": "iusK",
+          "name": "Cá vược khổng lồ",
+          "rarity": "rare",
+          "weight": 12.49,
+          "weight_class": "normal",
+          "price_per_kg": 80,
+          "sell_price": 999,
+          "caught_at": 1770305342,
+          "shiny": false
+        },
+        {
+          "id": "YJVU",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 2.71,
+          "weight_class": "normal",
+          "price_per_kg": 15,
+          "sell_price": 40,
+          "caught_at": 1770305361,
+          "shiny": false
+        },
+        {
+          "id": "n3Rk",
+          "name": "Cá ngừ",
+          "rarity": "uncommon",
+          "weight": 3.37,
+          "weight_class": "normal",
+          "price_per_kg": 30,
+          "sell_price": 101,
+          "caught_at": 1770305463,
+          "shiny": false
+        },
+        {
+          "id": "qDha",
+          "name": "Cá vược khổng lồ",
+          "rarity": "rare",
+          "weight": 12.82,
+          "weight_class": "normal",
+          "price_per_kg": 80,
+          "sell_price": 1025,
+          "caught_at": 1770305501,
+          "shiny": false
+        },
+        {
+          "id": "OAnV",
+          "name": "Cá hồi",
+          "rarity": "uncommon",
+          "weight": 4.08,
+          "weight_class": "normal",
+          "price_per_kg": 25,
+          "sell_price": 102,
+          "caught_at": 1770305550,
+          "shiny": false
+        },
+        {
+          "id": "APbK",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 2.77,
+          "weight_class": "normal",
+          "price_per_kg": 15,
+          "sell_price": 41,
+          "caught_at": 1770305568,
+          "shiny": false
+        },
+        {
+          "id": "81oq",
+          "name": "Cá kiếm",
+          "rarity": "rare",
+          "weight": 11.83,
+          "weight_class": "huge",
+          "price_per_kg": 120,
+          "sell_price": 1419,
+          "caught_at": 1770305580,
+          "shiny": false
+        },
+        {
+          "id": "xPc4",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 3.52,
+          "weight_class": "normal",
+          "price_per_kg": 10,
+          "sell_price": 35,
+          "caught_at": 1770305631,
+          "shiny": false
+        },
+        {
+          "id": "FJQR",
+          "name": "Cá kiếm",
+          "rarity": "rare",
+          "weight": 13.02,
+          "weight_class": "huge",
+          "price_per_kg": 120,
+          "sell_price": 1562,
+          "caught_at": 1770305641,
+          "shiny": false
+        },
+        {
+          "id": "NYBc",
+          "name": "Cá ngừ",
+          "rarity": "uncommon",
+          "weight": 3.55,
+          "weight_class": "normal",
+          "price_per_kg": 30,
+          "sell_price": 106,
+          "caught_at": 1770305743,
+          "shiny": false
+        },
+        {
+          "id": "7rn7",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 1.56,
+          "weight_class": "tiny",
+          "price_per_kg": 10,
+          "sell_price": 15,
+          "caught_at": 1770305793,
+          "shiny": false
+        },
+        {
+          "id": "4SxC",
+          "name": "Cá ngừ",
+          "rarity": "uncommon",
+          "weight": 7.74,
+          "weight_class": "huge",
+          "price_per_kg": 30,
+          "sell_price": 232,
+          "caught_at": 1770305911,
+          "shiny": false
+        },
+        {
+          "id": "Hn5l",
+          "name": "Cá kiếm",
+          "rarity": "rare",
+          "weight": 7.01,
+          "weight_class": "normal",
+          "price_per_kg": 120,
+          "sell_price": 841,
+          "caught_at": 1770395738,
+          "shiny": false
+        },
+        {
+          "id": "i8l7",
+          "name": "Cá mưa",
+          "rarity": "rare",
+          "weight": 8.14,
+          "weight_class": "normal",
+          "price_per_kg": 180,
+          "sell_price": 1465,
+          "caught_at": 1770395756,
+          "shiny": false
+        }
+      ],
+      "aquarium": {
+        "6PYM": {
+          "added_at": 1770303323
+        },
+        "cca7": {
+          "added_at": 1770303354
+        }
+      }
+    },
+    "493673989533859841": {
+      "wallet": 21907,
+      "gems": 20,
+      "xp": 130,
+      "level": 2,
+      "rod_level": 1,
+      "max_rod_level": 1,
+      "inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "shiny_inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "items": {},
+      "equipped_items": [],
+      "eggs": [],
+      "pets": [],
+      "active_pets": [],
+      "last_daily": 0,
+      "fishes": [
+        {
+          "id": "yLnY",
+          "name": "Cánh cụt",
+          "rarity": "epic",
+          "weight": 7.0,
+          "weight_class": "normal",
+          "price_per_kg": 2000,
+          "sell_price": 14000,
+          "caught_at": 1770303497,
+          "shiny": false
+        },
+        {
+          "id": "qeVC",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 5.7,
+          "weight_class": "huge",
+          "price_per_kg": 10,
+          "sell_price": 57,
+          "caught_at": 1770304945,
+          "shiny": false
+        },
+        {
+          "id": "4b2M",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 2.73,
+          "weight_class": "normal",
+          "price_per_kg": 15,
+          "sell_price": 40,
+          "caught_at": 1770314755,
+          "shiny": false
+        },
+        {
+          "id": "GU7O",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 1.42,
+          "weight_class": "tiny",
+          "price_per_kg": 15,
+          "sell_price": 21,
+          "caught_at": 1770314832,
+          "shiny": false
+        },
+        {
+          "id": "9Jwg",
+          "name": "Cá trắm",
+          "rarity": "common",
+          "weight": 2.04,
+          "weight_class": "normal",
+          "price_per_kg": 14,
+          "sell_price": 28,
+          "caught_at": 1770315122,
+          "shiny": false
+        },
+        {
+          "id": "OWzr",
+          "name": "Cá ngừ",
+          "rarity": "uncommon",
+          "weight": 3.31,
+          "weight_class": "normal",
+          "price_per_kg": 30,
+          "sell_price": 99,
+          "caught_at": 1770315368,
+          "shiny": false
+        },
+        {
+          "id": "dM1r",
+          "name": "Cá heo",
+          "rarity": "epic",
+          "weight": 31.33,
+          "weight_class": "normal",
+          "price_per_kg": 500,
+          "sell_price": 15665,
+          "caught_at": 1770315659,
+          "shiny": false
+        },
+        {
+          "id": "C6JZ",
+          "name": "Cá rô",
+          "rarity": "common",
+          "weight": 1.77,
+          "weight_class": "tiny",
+          "price_per_kg": 10,
+          "sell_price": 17,
+          "caught_at": 1770317079,
+          "shiny": false
+        }
+      ],
+      "aquarium": {
+        "dM1r": {
+          "added_at": 1770315702
+        },
+        "yLnY": {
+          "added_at": 1770315711
+        }
+      }
+    },
+    "1287635988465717320": {
+      "wallet": 108,
+      "gems": 83,
+      "xp": 75,
+      "level": 2,
+      "rod_level": 2,
+      "max_rod_level": 2,
+      "inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "shiny_inventory": {
+        "common": {},
+        "uncommon": {},
+        "rare": {},
+        "epic": {},
+        "legendary": {},
+        "mythical": {},
+        "unreal": {}
+      },
+      "items": {},
+      "equipped_items": [],
+      "eggs": [],
+      "pets": [
+        "c3"
+      ],
+      "active_pets": [
+        "c3"
+      ],
+      "last_daily": 1770397545,
+      "fishes": [
+        {
+          "id": "wT13",
+          "name": "Cánh cụt",
+          "rarity": "epic",
+          "weight": 6.57,
+          "weight_class": "normal",
+          "price_per_kg": 2000,
+          "sell_price": 13140,
+          "caught_at": 1770397105,
+          "shiny": false
+        },
+        {
+          "id": "PYKF",
+          "name": "Cá mưa",
+          "rarity": "rare",
+          "weight": 9.11,
+          "weight_class": "normal",
+          "price_per_kg": 180,
+          "sell_price": 1639,
+          "caught_at": 1770397199,
+          "shiny": false
+        },
+        {
+          "id": "VPAU",
+          "name": "Cá ngừ",
+          "rarity": "uncommon",
+          "weight": 3.07,
+          "weight_class": "normal",
+          "price_per_kg": 30,
+          "sell_price": 92,
+          "caught_at": 1770398718,
+          "shiny": false
+        },
+        {
+          "id": "A9SE",
+          "name": "Cá mè",
+          "rarity": "common",
+          "weight": 3.25,
+          "weight_class": "normal",
+          "price_per_kg": 15,
+          "sell_price": 48,
+          "caught_at": 1770399070,
+          "shiny": false
+        },
+        {
+          "id": "jF4B",
+          "name": "Cá ngừ",
+          "rarity": "uncommon",
+          "weight": 3.9,
+          "weight_class": "normal",
+          "price_per_kg": 30,
+          "sell_price": 117,
+          "caught_at": 1770399138,
+          "shiny": false
+        }
+      ],
+      "aquarium": {
+        "wT13": {
+          "added_at": 1770397515
+        },
+        "PYKF": {
+          "added_at": 1770397539
+        }
+      }
+    }
+  },
+  "GUILDS": {
+    "1060758385647177838": {
+      "prefix": "x",
+      "allowed_channels": [
+        1080489755256569969
+      ]
+    }
+  }
+}
